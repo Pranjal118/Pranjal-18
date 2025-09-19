@@ -1,0 +1,8 @@
+First Normal Form(1NF)
+•A relation will be 1NF if it contains an atomic value.
+•It states that an attribute of a table cannot hold multiple values. It must hold 
+only single-valued attribute.
+•All columns contain atomic values (no lists, sets, or composite fields).
+•Each row is unique (typically enforced by a primary key).
+•No repeating groups or arrays within a row.
+•Each column contains values of a single data type.
